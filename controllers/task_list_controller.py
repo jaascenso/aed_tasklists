@@ -1,5 +1,7 @@
 from aed_ds.dictionaries.hash_table import HashTable
 class TaskListController:
+    def __init__(self):
+        self.
     
     def has_user(self, user_name):
         pass
