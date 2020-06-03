@@ -1,2 +1,3 @@
 class TaskList:
-    pass
+    def get_name(self):
+        pass

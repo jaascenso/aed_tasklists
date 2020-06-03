@@ -1,4 +1,4 @@
-from controllers.task_list_controller import TaskListController
+from views.cli import CLI
 
 if __name__ == "__main__":
-    pass
+    CLI()

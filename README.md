@@ -16,6 +16,9 @@ Cada lista de tarefas tem um nome único. Cada tarefa tem uma descrição e um i
 
     CTL Criar lista de tarefas
         CTL UserName TaskListName
+    
+    DTL Elimina lista de tarefas
+        dTL UserName TaskListName
 
     CT Criar tarefa em lista de tarefas
         CT UserName TaskListName TaskId TaskDescription

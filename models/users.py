@@ -1,2 +1,6 @@
 class User:
-    pass
+    
+    def get_name(self):
+        pass
+
+    def 
